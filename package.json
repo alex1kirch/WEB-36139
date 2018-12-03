@@ -1,0 +1,24 @@
+{
+  "name": "WEB-36139",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex1kirch/WEB-36139.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex1kirch/WEB-36139/issues"
+  },
+  "homepage": "https://github.com/alex1kirch/WEB-36139#readme",
+  "devDependencies": {
+    "typescript": "3.0.1",
+    "prettier": "1.14.3"
+  }
+}

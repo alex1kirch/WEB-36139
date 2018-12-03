@@ -1,0 +1,5 @@
+# ignore all by default
+*.*
+
+# add your folder for prettier
+!application/src/account/index.ts
